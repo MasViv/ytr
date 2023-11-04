@@ -1,0 +1,40 @@
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px -5px 5px greenyellow;
+    background-color:black;
+    color:orange;
+}
+
+.note
+{
+    font-size:15;
+    color:chartreuse;
+    background-color:black;
+}
+
+.copy-right-footer
+{
+    position:fixed;
+    width:100%;
+    bottom:0;
+    line-height:3;
+    text-align:center;
+    background-color:orange;
+    color:greenyellow;
+    font-weight: bold;
+    background-color:black;
+}
+
+canvas
+{
+    border-radius:100px;
+    border:5px solid greenyellow;
+    box-shadow:5px 5px 5px orange;
+}
+body
+{
+    background-color:black;
+}
